@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Art-Space-App</string>
+    <string name="ak47">AKM</string>
+    <string name="ak47_year">2013</string>
+    <string name="ace32">ACE32</string>
+    <string name="ace32_year">2021</string>
+    <string name="g36c">G36C</string>
+    <string name="g36c_year">2019</string>
+    <string name="qbz95">QBZ95</string>
+    <string name="qbz95_year">2020</string>
+    <string name="m416">M416</string>
+    <string name="m416_year">2018</string>
+    <string name="aug_a3">AUG A3</string>
+    <string name="aug_a3_year">2017</string>
+    <string name="m762">Beryl M762</string>
+    <string name="m762_year">2016</string>
+    <string name="m16a4">M16A4</string>
+    <string name="m16a4_year">2015</string>
+    <string name="scar_l">SCAR-L</string>
+    <string name="scar_l_year">2014</string>
+</resources>
