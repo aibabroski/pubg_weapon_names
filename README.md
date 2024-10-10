@@ -1,0 +1,1 @@
+# pubg_weapon_names
